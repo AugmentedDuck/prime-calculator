@@ -1,0 +1,22 @@
+{
+  "name": "prime-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AugmentedDuck/prime-calculator.git"
+  },
+  "author": "AugmentedDuck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AugmentedDuck/prime-calculator/issues"
+  },
+  "homepage": "https://github.com/AugmentedDuck/prime-calculator#readme",
+  "dependencies": {
+    "firebase": "^10.6.0"
+  }
+}
